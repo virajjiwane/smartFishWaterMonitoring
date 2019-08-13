@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "23345562333",
+    "firebase_url": "https://profirebaseproject-3ac2d.firebaseio.com",
+    "project_id": "profirebaseproject-3ac2d",
+    "storage_bucket": "profirebaseproject-3ac2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23345562333:android:4f3661fb6cbd03c9",
+        "android_client_info": {
+          "package_name": "com.example.pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23345562333-cql2hdv4b4avsdf3sg0pualr4bojtrg9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pro",
+            "certificate_hash": "8d1b5c1b2644268986f97e838151cbbc5222cb10"
+          }
+        },
+        {
+          "client_id": "23345562333-dq86qq8k4fuj04u8577mjgkuuhdk5q3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA75j-7rGjUr397DlE5yvdQx-Sn7z17ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23345562333-dq86qq8k4fuj04u8577mjgkuuhdk5q3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
